@@ -1,7 +1,9 @@
  ## 🩺 Diabetes Healthcare Prediction System (AI + ML Web App)
+ 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/banner.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=800&lines=Diabetes+Healthcare+AI+System;Machine+Learning+Based+Prediction+App;Built+with+Python+%26+Streamlit;Smart+Medical+Decision+Support+Tool" />
 </p>
+
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
