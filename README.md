@@ -79,5 +79,4 @@ Diabetes-Healthcare-Programme/
 ├── .streamlit/                 # Streamlit configuration
 │   └── config.toml
 │
-└── __pycache__/                # Python cache (ignored in git)
-
+└── __pycache__/                # Python cache (ignore in Git)
