@@ -73,11 +73,11 @@ Diabetes-Healthcare-Programme/
 │   ├── prediction.py
 │   └── analysis.py
 │
-├── images/                     # UI assets & visuals
+├── images/                      # UI assets & visuals
 │   ├── logo.png
 │   └── banner.png
 │
 ├── .streamlit/                 # Streamlit configuration
 │   └── config.toml
 │
-└── __pycache__/                # (ignore in git)
+└── __pycache__/                # Python cache (ignore in Git)
