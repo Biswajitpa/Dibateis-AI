@@ -53,3 +53,13 @@ The system analyzes medical features such as:
  - Takes real-time user input
 -  Feeds into trained model
 - Outputs risk prediction (Diabetic / Non-Diabetic)
+## 🏗️ System Architecture
+User Input (Streamlit UI)
+        ↓
+Data Preprocessing (Python)
+        ↓
+Trained ML Model
+        ↓
+Prediction Engine
+        ↓
+Result Display (Risk Output)
