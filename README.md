@@ -54,12 +54,16 @@ The system analyzes medical features such as:
 -  Feeds into trained model
 - Outputs risk prediction (Diabetic / Non-Diabetic)
 ## 🏗️ System Architecture
-User Input (Streamlit UI)
-        ↓
-Data Preprocessing (Python)
-        ↓
-Trained ML Model
-        ↓
-Prediction Engine
-        ↓
-Result Display (Risk Output)
+
+<img width="197" height="161" alt="image" src="https://github.com/user-attachments/assets/04156b22-7cf3-47a3-8d7a-d5eb6022c3f7" />
+## 📂 Project Structure
+Diabetes-Healthcare-Programme
+│
+├── main.py                 # Streamlit frontend application
+├── web_functions.py        # ML model logic & prediction functions
+├── diabetes.csv            # Dataset used for training
+├── requirements.txt        # Project dependencies
+├── Tabs/                   # UI components for different pages
+├── images/                 # UI assets & visuals
+├── .streamlit/             # Streamlit configuration
+└── README.md               # Project documentation
