@@ -68,17 +68,37 @@ Diabetes-Healthcare-Programme/
 ├── requirements.txt             # Project dependencies
 ├── README.md                    # Project documentation
 │
-├── Tabs/
+├── Tabs/                        # UI components (multiple pages)
 │   ├── home.py
 │   ├── prediction.py
 │   └── analysis.py
 │
-├── images/
+├── images/                      # UI assets & visuals
 │   ├── logo.png
 │   └── banner.png
 │
-├── .streamlit/
+├── .streamlit/                 # Streamlit configuration
 │   └── config.toml
 │
-└── __pycache__/
+└── __pycache__/                # Python cache (ignore in Git)
 </pre>
+
+##💡 What This Project Demonstrates (Important for Recruiters)
+This project highlights my skills in:
+
+1. 🧠 Machine Learning 
+- Model training and evaluation
+- Data preprocessing
+- Real-world classification problem solving
+2. 🌐 Full Stack AI Development
+- Backend ML logic
+- Frontend UI using Streamlit
+- End-to-end integration
+3. 📊 Data Handling
+- Dataset analysis
+- Feature engineering
+- Data-driven decision making
+4. ⚙️ Software Engineering
+- Modular Python code structure
+- Reusable functions
+- Clean project architecture
