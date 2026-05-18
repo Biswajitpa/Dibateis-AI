@@ -1,5 +1,10 @@
  ## 🩺 Diabetes Healthcare Prediction System (AI + ML Web App)
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=700&lines=AI+Powered+Diabetes+Prediction+System;Machine+Learning+Healthcare+Web+App;Built+with+Python+%26+Streamlit;Real+Time+Risk+Prediction+System" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=700&lines=Diabetes+Prediction+AI+System;Machine+Learning+Healthcare+App;Streamlit+Web+Application" />
+</p>
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![ML](https://img.shields.io/badge/Machine%20Learning-AI-green)
 
 ## 👨‍💻Project Summary 
 The Diabetes Healthcare Prediction System is an AI-powered web application designed to assist in early detection of diabetes risk using machine learning algorithms.This project demonstrates my ability to design and develop:
@@ -102,3 +107,9 @@ This project highlights my skills in:
 - Modular Python code structure
 - Reusable functions
 - Clean project architecture
+## 📈 Future Enhancements
+- 🧠 Deep Learning-based prediction model
+- ☁️ Cloud deployment (AWS / Streamlit Cloud)
+- 📱 Mobile-friendly version
+- 📡 Integration with IoT health sensors
+- 📊 Advanced dashboard analytics
