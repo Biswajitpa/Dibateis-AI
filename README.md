@@ -59,6 +59,7 @@ The system analyzes medical features such as:
 
 
 ## 📂 Project Structure
+<pre>
 Diabetes-Healthcare-Programme/
 │
 ├── main.py                      # Streamlit frontend application
@@ -67,16 +68,17 @@ Diabetes-Healthcare-Programme/
 ├── requirements.txt             # Project dependencies
 ├── README.md                    # Project documentation
 │
-├── Tabs/                        # UI components (multiple pages)
+├── Tabs/
 │   ├── home.py
 │   ├── prediction.py
 │   └── analysis.py
 │
-├── images/                      # UI assets & visuals
+├── images/
 │   ├── logo.png
 │   └── banner.png
 │
-├── .streamlit/                 # Streamlit configuration
+├── .streamlit/
 │   └── config.toml
 │
-└── __pycache__/                # Python cache (ignore in Git)
+└── __pycache__/
+</pre>
