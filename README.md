@@ -116,3 +116,7 @@ This project highlights my skills in:
 - 📱 Mobile-friendly version
 - 📡 Integration with IoT health sensors
 - 📊 Advanced dashboard analytics
+
+  ## AuthoR
+  Biswajit Pattanaik
+  
